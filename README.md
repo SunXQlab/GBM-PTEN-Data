@@ -2,11 +2,15 @@
 
 This repository contains whole-exome sequencing (WES) data, immunofluorescent staining results, and drug sensitivity anlysis results derived from GBM-PTEN organoid experiments.
 
-## Representative Image
+## PTEN Mutation Status Profiling by WES
+
+[WES_results](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/WES_results) were used to identify whether PTEN is mutated (Mut) or retained as wild-type (WT) in giloblastoma organoids (GBOs).
+
+## Representative Experimental Results
 
 ![Figure 10](https://raw.githubusercontent.com/SunXQlab/GBM-PTEN-Data/main/fig10_clip.png)
 
-**Figure 10.** *The giloblastoma organoid (GBO) experimental validation of drug combination predictions.*
+**Figure 10.** *The GBO experimental validation of drug combination predictions.*
 
 - **(C)** Dose-response curves of various combination regimens against PTEN-WT GBOs.
 - **(D)** Dose-response curves of various combination regimens against PTEN-Mut GBOs.

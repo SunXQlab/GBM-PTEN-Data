@@ -14,7 +14,7 @@ This repository contains whole-exome sequencing (WES) data, immunofluorescent st
 - **(F)** Immunofluorescence of CD68, CSF1R, AKT, IGF1R, and PTEN in GBOs.
 
 Supporting data for panels **C–D** are available at:  
-[drug_sensitivity_results](https://github.com/SunXQlab/GBM-PTEN-Data/main/drug_sensitivity_results)
+[drug_sensitivity_results](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/drug_sensitivity_results)
 
 Supporting data for panel **F** are available at:  
-[Immunofluorescence](https://github.com/SunXQlab/GBM-PTEN-Data/main/Immunofluorescence)
+[Immunofluorescence](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/Immunofluorescence)

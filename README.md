@@ -13,8 +13,6 @@ This repository contains whole-exome sequencing (WES) data, immunofluorescent st
 - **(E)** Fold changes of combinational regimens compared to CSF1R treatment.
 - **(F)** Immunofluorescence of CD68, CSF1R, AKT, IGF1R, and PTEN in GBOs.
 
-Supporting data for panels **C–D** are available at:  
-[drug_sensitivity_results](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/drug_sensitivity_results)
+Supporting data for panels **C–D** are available at: [drug_sensitivity_results](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/drug_sensitivity_results)
 
-Supporting data for panel **F** are available at:  
-[Immunofluorescence](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/Immunofluorescence)
+Supporting data for panel **F** are available at: [Immunofluorescence](https://github.com/SunXQlab/GBM-PTEN-Data/tree/main/Immunofluorescence)
